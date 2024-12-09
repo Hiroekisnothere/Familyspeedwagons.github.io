@@ -144,8 +144,8 @@
     <!-- Home Section -->
     <section id="home" class="section section-content active">
     <h2>Home</h2>
+    <p>For the JS section what i managed to do is i made that when each section gets reloaded it doesn't keep going back to the home page. And for the whole code itself i didn't use any template due to it being a bit more confusing for me for some reason so i managed to write this whole script with some trial and error for the past few weeks since you announce the final project. And used a few references from youtube and your modules on how to make a few things. </p>
     <p>Welcome, car enthusiasts, to the world of Family Speed Wagons! Whether you're a seasoned station wagon fan or new to the scene, this website is the perfect place for you. Here, we explore everything about these versatile and performance-driven cars that have captured the hearts of car lovers around the globe. From high-performance models to unique estate builds, you'll find content that caters to all your wagon-related interests.</p>
-	<p>For the JS section what i managed to do is i made that when each section gets reloaded it doesn't keep going back to the home page.</p>
     <p>Join us as we delve into a growing community of car aficionados, sharing stories, specs, and personal experiences of the best family-friendly speed wagons!</p>
 </section>
 
@@ -153,7 +153,7 @@
     <!-- About Section -->
     <section id="about" class="section section-content">
     <h2>About Us</h2>
-    <p>This website is a personal project created by a university student who has a deep admiration for cars, especially station wagons and estate builds. As part of an academic assignment, I developed this site to showcase my passion for these unique vehicles that combine performance, style, and practicality. The goal of this project is not only to demonstrate my web development skills but also to connect with fellow car enthusiasts who share the same appreciation for family wagons.</p>
+    <p>This website is a personal project created by a university student who has a deep admiration for cars, especially station wagons and estate builds. As part of an academic assignment, I developed this site to showcase my passion for these unique vehicles that combine performance, style, and practicality. The goal of this project is not only to demonstrate my web development skills but also to connect with fellow car enthusiasts who share the same appreciation for family wagons.</p> 
     <p>From classic models to the latest high-performance variants, I aim to offer an insightful platform for all things related to wagons. Join me on this journey as I continue to build and improve this site, sharing information, opinions, and discussions on the cars that define a niche yet passionate community.</p>
 </section>
 
