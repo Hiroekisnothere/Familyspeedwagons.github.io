@@ -293,7 +293,6 @@ With its dynamic handling, advanced safety features like adaptive cruise control
     </div>
 	<div class="car-gallery">
             <h3>More pictures coming soon...</h3>
-</section>
         <!-- Additional Car Galleries -->
         <!-- Add similar blocks for other cars -->
 
